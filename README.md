@@ -46,10 +46,6 @@ Oracle OWS API 통합 등 엔터프라이즈 환경에 필요한 기술을 다�
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K&show_icons=true&theme=dark)
-
 ### 🛠️ Tech Stack
 
 Robotics Process Automation | Power BI | Azure OpenAI | Oracle OWS
