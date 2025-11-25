@@ -60,4 +60,4 @@ Robotics Process Automation | Power BI | Azure OpenAI | Oracle OWS
 
 ---
 
-⭐ From [K](https://github.com/K)
+⭐ From [K](https://github.com/eogns6357)
