@@ -24,14 +24,6 @@ Nice to meet you all. My name is Daehoon Kim :)
 
 - **Instagram:** [@iamdaehoon](https://www.instagram.com/iamdaehoon/)
 
-- **Personal Website:** 
-
-  - [Your Website Link]
-
-- **LinkedIn:** [Your LinkedIn Profile]
-
-- Actively posting at LinkedIn, GitHub, Instagram
-
 ---
 
 ## 👋 **안녕하세요.**
