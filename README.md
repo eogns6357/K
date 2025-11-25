@@ -25,14 +25,19 @@ Nice to meet you all. My name is Daehoon Kim :)
 
 ---
 
-👋 **안녕하세요.**
+## 👋 **안녕하세요.**
 
-Enterprise Automation & AI System Engineering을 통해 개발자 경험(DX)과 비즈니스 가치를 만들어가는 김대훈입니다.
+Enterprise Automation & AI System Engineering을 통해 DX 경험을 만들어가는 K입니다.
 
 ## 🇰🇷 자기 소개
 
-Enterprise Automation과 AI System Engineering을 통해 조직의 디지털 전환과 개발자 경험(DX) 개선에 기여하고 있습니다.
+저는 Developer | DX Strategy 분야에서
+업무 자동화, 데이터 분석, AI 기반 기능 도입, 시스템 연동을 설계·개발하고 있습니다.
+Power Automate 기반 RPA, Power BI 분석, Azure OpenAI 활용,
+Oracle OWS API 통합 등 엔터프라이즈 환경에 필요한 기술을 다루고 있습니다.
 
+업무 흐름을 구조적으로 재해석하고, 불필요한 단계를 제거하며,
+사용자 중심의 자동화와 데이터 흐름을 설계하는 방식으로 DX를 추진하고 있습니다.
 ---
 
 ### 📊 GitHub Stats
